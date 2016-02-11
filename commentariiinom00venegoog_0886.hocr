@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./commentariiinom00venegoog_0886.png"; bbox 0 0 2282 3507; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 48 111 1770 300">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 48 111 1770 300">
+     <span class='ocr_line' id='line_1_1' title="bbox 208 111 1770 195; baseline -0.003 -10"><span class='ocrx_word' id='word_1_1' title='bbox 208 187 217 195; x_wconf 74' lang='grc'><em>,</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 536 111 804 183; x_wconf 53' lang='lat' dir='ltr'>tm]</span> <span class='ocrx_word' id='word_1_3' title='bbox 823 113 1004 183; x_wconf 61' lang='grc' dir='ltr'>Μὲ-</span> <span class='ocrx_word' id='word_1_4' title='bbox 1072 112 1205 182; x_wconf 65' lang='lat' dir='ltr'>vm</span> <span class='ocrx_word' id='word_1_5' title='bbox 1436 121 1481 182; x_wconf 89' lang='grc'><strong>4</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1499 129 1518 172; x_wconf 77' lang='lat'>⁸</span> <span class='ocrx_word' id='word_1_7' title='bbox 1537 114 1577 168; x_wconf 70' lang='grc' dir='ltr'><em>ὸ</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1767 157 1770 163; x_wconf 54' lang='grc'><em>·</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 48 186 1711 300; baseline 0 -29"><span class='ocrx_word' id='word_1_9' title='bbox 48 186 634 300; x_wconf 49' lang='lat' dir='ltr'>§Qffinff</span> <span class='ocrx_word' id='word_1_10' title='bbox 648 189 1686 271; x_wconf 50' lang='lat' dir='ltr'>mmmmssmfflm</span> <span class='ocrx_word' id='word_1_11' title='bbox 1708 241 1711 246; x_wconf 29' lang='grc' dir='ltr'><strong><em>ι</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
